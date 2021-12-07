@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-SF01A-3D-SPKIRA101-streamed-spkir_data_record
 data_stream: RS01SBPS-SF01A-3D-SPKIRA101-streamed-spkir_data_record
 end_date: '2021-12-07T00:18:49.843Z'
-last_updated: '2021-12-07T09:15:27.908815Z'
+last_updated: '2021-12-07T11:10:22.147561'
 start_date: '2014-10-07T20:46:56.410Z'
-status: pending
+status: failed
